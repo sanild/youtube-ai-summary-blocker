@@ -6,7 +6,7 @@ This chrome extension will block youtube AI summaries.
 
 ---
 
-##🛠 Installation (Developer Mode)
+## 🛠 Installation (Developer Mode)
 
 Until it’s live on the Chrome Web Store, you can run it in any Chromium-based browser (Chrome, Brave, Edge, Opera, etc.):
 
