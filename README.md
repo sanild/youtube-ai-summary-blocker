@@ -39,8 +39,9 @@ Injects a little script into YouTube pages.
 Detects the #expandable-metadata container.
 
 **Nukes it.**
-![Nuke Demo](kimjong.gif)
 **▄︻デ══━一💥** 
+
+<img src="kimjong.gif" alt="Demo" width="200"/>
 
 ---
 
