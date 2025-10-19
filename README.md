@@ -40,10 +40,9 @@ Injects a little script into YouTube pages.
 
 Detects the #expandable-metadata container.
 
-**Nukes it.
-
-▄︻デ══━一💥 **
-Listens to your toggle so you can bring it back if you’re feeling nostalgic.
+**Nukes it.**
+(kimjong.gif)
+** ▄︻デ══━一💥 **
 
 ---
 
