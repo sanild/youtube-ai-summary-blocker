@@ -10,28 +10,26 @@ This chrome extension will block youtube AI summaries.
 
 Until it’s live on the Chrome Web Store, you can run it in any Chromium-based browser (Chrome, Brave, Edge, Opera, etc.):
 
-Clone or download this repo:
+1. **Clone or download this repo**  
+   ```bash
+   git clone https://github.com/sanild/youtube-ai-summary-blocker.git
+   ```
 
-git clone https://github.com/sanild/youtube-ai-summary-blocker.git
+2. **Open your browser and go to:**  
+   ```
+   chrome://extensions/
+   ```
+   *(or `brave://extensions/` / `edge://extensions/`, etc.)*
 
+3. **Enable Developer mode** (toggle in the top-right corner).
 
-Open your browser and go to:
+4. **Click “Load unpacked.”**
 
-chrome://extensions/
+5. **Select the `youtube-ai-summary-blocker/` folder.**
 
+6. **Pin the extension** from your toolbar.
 
-(or brave://extensions/ / edge://extensions/, etc.)
-
-Enable Developer mode (top-right corner).
-
-Click Load unpacked.
-
-Select the youtube-ai-summary-blocker/ folder.
-
-Pin the extension from your toolbar.
-
-Now click the shiny new icon → flip the toggle → refresh YouTube → boom, AI summaries gone.
-
+7. **Click the shiny new icon → flip the toggle → refresh YouTube → boom, AI summaries gone. 🎉**
 ---
 
 ## 🔧 How It Works
@@ -41,8 +39,8 @@ Injects a little script into YouTube pages.
 Detects the #expandable-metadata container.
 
 **Nukes it.**
-(kimjong.gif)
-** ▄︻デ══━一💥 **
+![Nuke Demo](kimjong.gif)
+**▄︻デ══━一💥** 
 
 ---
 
