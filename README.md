@@ -1,3 +1,4 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="80"/>
 # YouTube AI Summary Blocker
 
 As a newly turned 26 year old man, my most boomer opinion about tech is that everything doesn't need AI. Please stop.
